@@ -1,0 +1,10 @@
+{
+  "description": "Discover premium real estate listings with a fast, mobile-first platform designed for effortless property searches and intuitive filtering for buyers and renters.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
